@@ -12,6 +12,10 @@ Plug 'https://github.com/preservim/nerdtree'
 Plug 'https://github.com/ap/vim-css-color'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/neoclide/coc.nvim'
+Plug 'https://github.com/pangloss/vim-javascript'
+Plug 'https://github.com/mxw/vim-jsx'
+
+Plug 'https://github.com/sainnhe/sonokai'
 
 call plug#end()
 
